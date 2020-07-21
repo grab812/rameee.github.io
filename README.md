@@ -7,6 +7,7 @@
 
 ## ENGINEER
 - [GULP](https://programmingsummaries.tistory.com/category/Gulp.js)
+- [GIT](https://git-scm.com/book/ko/v2)
 
 - [ ] sass
 - [ ] A11Y
