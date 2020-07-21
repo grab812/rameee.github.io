@@ -1,8 +1,9 @@
 # 포트폴리오
-## 포스터형식
 
-- [You Don't Know JS (this와 객체 프로토타입, 비동기와 성능)]
-
+## LEG
+- [eng종합](https://www.esolcourses.com/)
+- [eng리딩01](https://www.conversationexchange.com/)
+- [eng리딩02](http://www.manythings.org/)
 
 
 - [ ] sass
